@@ -1,0 +1,174 @@
+[USO] Robot Constructor llamado - Mon Nov 17 15:27:27 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:27:31 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:27:34 2025
+[DHT] Temperatura: 20.8°C - Mon Nov 17 15:27:36 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:27:42 2025
+[DHT] Temperatura: 21.0°C - Mon Nov 17 15:27:45 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:27:48 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:27:51 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:27:56 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:27:58 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:28:06 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:28:09 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:28:14 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Constructor llamado - Mon Nov 17 15:33:47 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:33:59 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:35:49 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:42:09 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:42:29 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:44:06 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:45:34 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:45:47 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:45:56 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 19:41:31 2025
+[EXPLORACION] Inicio de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 19:43:39 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 19:43:50 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Medico llamado - Mon Nov 17 19:44:10 2025
+[DHT] Temperatura: 19.8°C - Mon Nov 17 19:44:13 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:44:28 2025
+[DHT] Temperatura: 19.8°C - Mon Nov 17 19:44:30 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:44:41 2025
+[DHT] Temperatura: 27.2°C - Mon Nov 17 19:44:43 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:44:57 2025
+[DHT] Temperatura: 32.5°C - Mon Nov 17 19:44:59 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:45:07 2025
+[DHT] Humedad: 95% - Mon Nov 17 19:45:10 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:45:19 2025
+[DHT] Humedad: 95% - Mon Nov 17 19:45:21 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:45:39 2025
+[DHT] Humedad: 95% - Mon Nov 17 19:45:42 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:45:51 2025
+[DHT] Humedad: 95% - Mon Nov 17 19:45:54 2025
+[USO] Robot Medico llamado - Mon Nov 17 19:46:10 2025
+[DHT] Humedad: 80% - Mon Nov 17 19:46:12 2025
+[USO] Robot Explorador llamado - Mon Nov 17 20:55:45 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 20:56:06 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 20:56:25 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Medico llamado - Mon Nov 17 20:56:48 2025
+[DHT] Humedad: 76% - Mon Nov 17 20:56:50 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:00 2025
+[DHT] Humedad: 53% - Mon Nov 17 20:57:02 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:07 2025
+[DHT] Humedad: 95% - Mon Nov 17 20:57:09 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:39 2025
+[DHT] Temperatura: 30.8°C - Mon Nov 17 20:57:42 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:44 2025
+[DHT] Temperatura: 25.2°C - Mon Nov 17 20:57:46 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:48 2025
+[DHT] Temperatura: 31.4°C - Mon Nov 17 20:57:51 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:53 2025
+[DHT] Temperatura: 31.7°C - Mon Nov 17 20:57:55 2025
+[USO] Robot Medico llamado - Mon Nov 17 20:57:58 2025
+[DHT] Temperatura: 32.1°C - Mon Nov 17 20:58:01 2025
+[USO] Robot Constructor llamado - Mon Nov 17 21:00:44 2025
+[USO] Robot Constructor llamado - Mon Nov 17 21:00:56 2025
+[USO] Robot Explorador llamado - Mon Nov 17 21:01:09 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:03:05 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:03:26 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:04:55 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:05:09 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:05:16 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 21:05:22 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Constructor llamado - Mon Nov 17 21:05:31 2025
+[USO] Robot Constructor llamado - Mon Nov 17 21:05:35 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:05:44 2025
+[DHT] Humedad: 95% - Mon Nov 17 21:05:46 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:05:49 2025
+[DHT] Humedad: 62% - Mon Nov 17 21:05:51 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:05:56 2025
+[DHT] Humedad: 83% - Mon Nov 17 21:05:58 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:06:04 2025
+[DHT] Humedad: 72% - Mon Nov 17 21:06:07 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:06:18 2025
+[DHT] Temperatura: 26.2°C - Mon Nov 17 21:06:21 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:06:22 2025
+[DHT] Temperatura: 27.0°C - Mon Nov 17 21:06:25 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:06:26 2025
+[DHT] Temperatura: 30.3°C - Mon Nov 17 21:06:29 2025
+[USO] Robot Medico llamado - Mon Nov 17 21:06:31 2025
+[DHT] Temperatura: 31.6°C - Mon Nov 17 21:06:33 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:03:19 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:03:23 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:03:28 2025
+[DHT] Humedad: 95% - Wed Nov 19 20:03:30 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:03:34 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:03:41 2025
+[DHT] Humedad: 86% - Wed Nov 19 20:03:43 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:03:48 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:03:54 2025
+[DHT] Humedad: 75% - Wed Nov 19 20:03:56 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:05:15 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:05:35 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:05:44 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:05:46 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:08 2025
+[DHT] Temperatura: 25.0°C - Wed Nov 19 20:06:10 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:18 2025
+[DHT] Temperatura: 23.4°C - Wed Nov 19 20:06:20 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:26 2025
+[DHT] Temperatura: 29.2°C - Wed Nov 19 20:06:28 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:31 2025
+[DHT] Temperatura: 28.6°C - Wed Nov 19 20:06:33 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:47 2025
+[DHT] Humedad: 95% - Wed Nov 19 20:06:50 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:53 2025
+[DHT] Humedad: 95% - Wed Nov 19 20:06:56 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:06:58 2025
+[DHT] Humedad: 84% - Wed Nov 19 20:07:00 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:07:04 2025
+[DHT] Humedad: 70% - Wed Nov 19 20:07:06 2025
+[USO] Robot Explorador llamado - Wed Nov 19 20:07:20 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración
+[USO] Robot Constructor llamado - Wed Nov 19 20:10:11 2025
+[USO] Robot Constructor llamado - Wed Nov 19 20:10:17 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:10:26 2025
+[DHT] Temperatura: 25.5°C - Wed Nov 19 20:10:28 2025
+[USO] Robot Medico llamado - Wed Nov 19 20:10:32 2025
+[DHT] Humedad: 52% - Wed Nov 19 20:10:34 2025
+[USO] Robot Explorador llamado - Wed Nov 19 20:10:37 2025
+[EXPLORACION] Inicio de exploración
+[EXPLORACION] Fin de exploración

@@ -1,13 +1,24 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 24 13:17:10 2025
+Created on Mon Nov 17 09:33:03 2025
 
-@author: HP
+@author: ESTUDIANTE
 """
 
-# vista.py
+# -*- coding: utf-8 -*-
 
-class VistaRobot:
-    @staticmethod
-    def mostrar_mensaje(mensaje):
-        print(mensaje)
+class TelegramView:
+    def enviar(self, bot, chat_id, mensaje):
+        bot.sendMessage(chat_id, mensaje)
+
+    def menu_principal(self):
+        return (
+            " *Robots disponibles*\n\n"
+            "constructor_on\n"
+            "constructor_off\n"
+            "medico_temp\n"
+            "medico_hum\n"
+            "explorar\n"
+            "estado\n"
+            "salir\n"
+        )

@@ -1,0 +1,5 @@
+exploracion_iniciada: 12
+medir_humedad: 17
+medir_temperatura: 14
+led_encendido: 6
+led_apagado_o_detenido: 6
